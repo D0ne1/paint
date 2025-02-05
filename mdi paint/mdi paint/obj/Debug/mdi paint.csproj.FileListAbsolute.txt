@@ -1,0 +1,13 @@
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\bin\Debug\mdi paint.exe.config
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\bin\Debug\mdi paint.exe
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\bin\Debug\mdi paint.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi paint.csproj.AssemblyReference.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi_paint.FormAbout.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi_paint.MainForm.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi_paint.Properties.Resources.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi paint.csproj.GenerateResource.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi paint.csproj.CoreCompileInputs.cache
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi paint.exe
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi paint.pdb
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi_paint.FormDocument.resources
+C:\ДАНИИЛ\универ\2 курс\кпо\1 лаба\mdi paint\mdi paint\obj\Debug\mdi_paint.CanvasSizeForm.resources
